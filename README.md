@@ -31,11 +31,14 @@
 <p>3. Unzip and open terminal in that folder or run it on any python compiler</p>
 
 
+
 ```
 pip install pyautogui
 
 ```
-
+```
+pip install ttkthemes
+```
 <p>4. start the bot</p>
 
 ```
