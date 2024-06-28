@@ -36,7 +36,7 @@ pip install pyautogui
 
 ```
 
-<p>6. start the bot</p>
+<p>4. start the bot</p>
 
 ```
 auto_click_bot.py
